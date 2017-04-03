@@ -1,0 +1,12 @@
+Terminal commands:
+
+make - create application "2048"
+make fclean - delete application
+make re - remake app
+
+Game management:
+up/down/left/right arrows for playing
+Esc - exit
+
+!Note
+Implementation of WIN/LOSE in progress.
