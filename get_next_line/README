@@ -1,0 +1,9 @@
+Terminal commands:
+make - create "test_gnl" file
+make re - remake "test_gnl" file
+make fclean - delete that.
+
+./test_gnl test_file - output line by line test_file.
+
+!Note
+For correctly work(inclusive other projects), get_next_line.c must have included libft.a library and declared functions from get_next_line.h. 

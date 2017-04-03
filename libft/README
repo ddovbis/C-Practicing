@@ -1,4 +1,4 @@
-Commands for terminal:
+Terminal commands:
 make - create the library "libft.a"
 make re - remake library
 make fclean - delete library

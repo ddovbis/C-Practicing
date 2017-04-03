@@ -1,4 +1,4 @@
-Commands for terminal:
+Terminal commands:
 make - create file "fillit"
 make re - remake file fillit
 make fclean - delete file
