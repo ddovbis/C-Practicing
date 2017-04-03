@@ -1,5 +1,0 @@
-LIBFTA personal library with 60 usual functions, among which are 28 rewritten system functions. Their list, along with their detailed description can be found in the README file in the repository. 
-GET_NEXT_LINEA function that is able to read a valid file line by line, regardless of its size, returning each as a string. There is also an adjustable buffer for the reading.FILLITA team-based project consisting of reading a list of figures (tetriminos) and displaying in the terminal thesmallest possible square to be filled with the said tetriminos. Here I have worked on the implementations ofreading and verifying aspects of data, but also using concepts such as recursion and efficient solutionmanagement.
-
-2048
-The Unix-console remake of the popular game, using the “ncurses” library.
